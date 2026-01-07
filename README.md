@@ -3,7 +3,7 @@
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por la lógica de programación y el desarrollo Back-end con Java.
 
 - Actualmente estoy consolidando mis bases en **Java** y **Lógica de Programación**.
-- Aprendiendo: Arquitecturas Consultas, gestión de datos y SQL.
+- Aprendiendo: Consultas, gestión de datos y SQL.
 - Objetivo: Conseguir mi primera experiencia como desarrollador en prácticas.
 
 ### 🛠 Lenguajes y Herramientas
