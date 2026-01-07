@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hola, soy Aldair 👋
 
-<!--
-**Counter321/Counter321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por la lógica de programación y el desarrollo Back-end con Java.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy consolidando mis bases en **Java** y **Lógica de Programación**.
+- 🌱 Aprendiendo: Arquitecturas limpias y SQL.
+- 🎯 Objetivo: Conseguir mi primera experiencia como desarrollador en prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Lenguajes y Herramientas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aldairmatogonzales/)
