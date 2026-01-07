@@ -2,9 +2,9 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por la lógica de programación y el desarrollo Back-end con Java.
 
-- 🔭 Actualmente estoy consolidando mis bases en **Java** y **Lógica de Programación**.
-- 🌱 Aprendiendo: Arquitecturas limpias y SQL.
-- 🎯 Objetivo: Conseguir mi primera experiencia como desarrollador en prácticas.
+- Actualmente estoy consolidando mis bases en **Java** y **Lógica de Programación**.
+- Aprendiendo: Arquitecturas Consultas, gestión de datos y SQL.
+- Objetivo: Conseguir mi primera experiencia como desarrollador en prácticas.
 
 ### 🛠 Lenguajes y Herramientas
 
@@ -13,3 +13,4 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado p
 
 ---
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aldairmatogonzales/)
+
